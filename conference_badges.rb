@@ -3,4 +3,5 @@ def badge_maker(name)
 end
 
 def badge_code_creator
-  array=[""]
+  array=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  
