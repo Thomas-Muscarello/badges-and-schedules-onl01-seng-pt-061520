@@ -8,5 +8,5 @@ def badge_code_creator(array)
   array.each do |name|
     nu_array "Hello, my name is #{name}."
   end
-  nu_array
+  return nu_array
 end
