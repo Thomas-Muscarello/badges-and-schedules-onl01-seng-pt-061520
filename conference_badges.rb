@@ -5,4 +5,5 @@ end
 
 def badge_code_creator
   badge_code_creator=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-badge_code_creator
+  badge_code_creator.each do |name|
+    return 
