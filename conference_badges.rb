@@ -6,6 +6,7 @@ end
 def badge_code_creator(array)
   array=[]
   array.each do |name|
-    return "Hello, my name is #{name}."
+    nu_array "Hello, my name is #{name}."
   end
+  nu_array
 end
